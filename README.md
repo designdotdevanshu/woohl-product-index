@@ -11,7 +11,7 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Public access surface**
 
-- **[https://woohl.com](https://woohl.com)**
+- **[woohl.com](https://woohl.com)**
   Current waitlist site for consumers. Used to capture demand and onboard users ahead of broader rollout.
   This is not the live product yet.
 
@@ -21,7 +21,7 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Live product environment**
 
-- **[https://beta.woohl.com](https://beta.woohl.com)**
+- **[beta.woohl.com](https://beta.woohl.com)**
   Active beta where the current version of the social commerce product is live.
   Used to demonstrate real user flows, product mechanics, and early traction.
 
@@ -31,7 +31,7 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Seller acquisition and demo booking**
 
-- **[https://sell.woohl.com](https://sell.woohl.com)**
+- **[sell.woohl.com](https://sell.woohl.com)**
   Seller-facing entry point to register interest and book demos to sell on Woohl.
   Used for outbound, inbound, and partner-led seller onboarding.
 
@@ -41,7 +41,7 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Seller workspace**
 
-- **[https://studio.woohl.com](https://studio.woohl.com)**
+- **[studio.woohl.com](https://studio.woohl.com)**
   Seller-facing interface for listing products, managing inventory, and operating on the platform.
   This is the core seller product surface.
 
@@ -51,10 +51,10 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Exploratory AI layers**
 
-- **[https://woohl-seller-ai.vercel.app](https://woohl-seller-ai.vercel.app)**
+- **[woohl-seller-ai.vercel.app](https://woohl-seller-ai.vercel.app)**
   Seller-side AI experiments for catalog creation, optimization, and automation.
 
-- **[https://woohl-buyer-ai.vercel.app](https://woohl-buyer-ai.vercel.app)**
+- **[woohl-buyer-ai.vercel.app](https://woohl-buyer-ai.vercel.app)**
   Buyer-side AI experiments focused on discovery, recommendations, and conversational shopping.
 
 > These are experimental and used to demonstrate direction, not final UX.
@@ -65,10 +65,10 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Internal utilities**
 
-- **[https://links.woohl.com](https://links.woohl.com)**
+- **[links.woohl.com](https://links.woohl.com)**
   Internal short-link creation, campaign routing, and link management.
 
-- **[https://woohl-links.netlify.app](https://woohl-links.netlify.app)**
+- **[woohl-links.netlify.app](https://woohl-links.netlify.app)**
   Internal dashboard for managing and accessing Woohl links across teams.
 
 > Not user-facing products. Shown only when relevant to ops or growth discussions.
@@ -79,7 +79,7 @@ It is used for internal alignment, partner walkthroughs, and investor discussion
 
 **Legacy demo**
 
-- **[https://demo.woohl.com](https://demo.woohl.com)**
+- **[demo.woohl.com](https://demo.woohl.com)**
   First-iteration prototype used earlier for concept demos.
   Currently outdated and not representative of the live product direction.
 
